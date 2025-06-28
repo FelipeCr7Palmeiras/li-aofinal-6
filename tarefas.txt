@@ -1,0 +1,3 @@
+Felipe|fazer liçao de python|Média
+Napole|fazer liçao de python|Alta
+Luquinha|fazer liçao de python|Baixa
